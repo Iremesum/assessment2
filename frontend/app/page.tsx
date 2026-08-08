@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const APIURL = "http://localhost:4080";
+const APIURL = "http://100.56.100.252:4080";
 
 interface Post {
   id: number;
